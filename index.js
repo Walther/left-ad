@@ -1,0 +1,1 @@
+console.log("Figuring out a sustainable and fair income model for open-source tools would be cool")
